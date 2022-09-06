@@ -65,7 +65,7 @@
         ],
         "streamId": 42
     },
-    "I23": { // Staling
+    "I23": { // Stalling
         "stalling": [],
         "streamId": 42
     },
