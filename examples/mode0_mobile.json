@@ -1,5 +1,5 @@
 {
-    "I11": {
+    "I11": { // Video 
         "segments": [
             {
                 "bitrate": 331.46,
@@ -28,7 +28,7 @@
         ],
         "streamId": 42
     },
-    "I13": {
+    "I13": { // Audio
         "segments": [
             {
                 "bitrate": 691.72,
@@ -65,7 +65,7 @@
         ],
         "streamId": 42
     },
-    "I23": {
+    "I23": { // Staling
         "stalling": [],
         "streamId": 42
     },
